@@ -38,8 +38,8 @@ print(x)
 
 
 ## Output:
-![githublogo](lu 1.png)
-![githublogo](lu 2.png)
+![githublogo](ex1.png)
+![githublogo](ex2.png)
 
 
 
